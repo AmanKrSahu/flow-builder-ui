@@ -1,0 +1,27 @@
+# Next.js default folders
+.next/
+node_modules/
+out/
+
+# Build output
+dist/
+build/
+
+# Cache
+.cache/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Testing
+coverage/
+
+# Public files (usually contains optimized assets)
+public/
